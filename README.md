@@ -305,4 +305,4 @@ Al cambiar el comportamiento: sube la versión en ambos y ejecuta
 
 ## Licencia
 
-MIT. Ver `license: MIT` en el frontmatter de [`SKILL.md`](SKILL.md).
+[MIT](LICENSE) © 2026 linkeaoficial. Ver también `license: MIT` en el frontmatter de [`SKILL.md`](SKILL.md).
